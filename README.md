@@ -1,2 +1,2 @@
-# simple-counter-2nd-js-project
+# 2nd-js-project-simple-counter
  A simple counter to test and develop my JS skills
